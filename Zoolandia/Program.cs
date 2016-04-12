@@ -3,13 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Zoolandia.Canis;
-using Zoolandia.Okapia;
-using Zoolandia.Panthera;
-using Zoolandia.Phacochoerus;
-using Zoolandia.Suricata;
-using Zoolandia.Ursus;
-using Zoolandia.Interfaces;
+using Zoolandia.Animals;
 
 
 namespace Zoolandia
